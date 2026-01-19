@@ -1,39 +1,46 @@
-# Hi 👋, I'm Tharun Kuntola
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
-</p>
+# Tharun Kuntolla
+Full-Stack Software Engineer (React / Angular + .NET Core) | Cloud (Azure/AWS) | Microservices | CI/CD
 
----
+I build scalable, performance-focused web applications and APIs, with strong emphasis on clean architecture, reliability, and measurable outcomes.
 
-### 💫 About Me
-- 🔭 I’m currently working on **ASP.NET Core web applications**
-- 🌱 I’m currently learning **Advanced System Design & Cloud Architecture**
-- 💬 Ask me about **React, Node.js, or UI/UX**
-- 📫 How to reach me: **tharun.ktr29@gmail.com**
-- ⚡ Fun fact: **I believe clean code is a love letter to the next developer.**
+## What I’m good at
+- **Frontend:** React, Angular, TypeScript, performance tuning, component design systems
+- **Backend:** .NET Core (C#), REST APIs, microservices, background jobs, caching
+- **Data:** SQL Server, query optimization, data modeling
+- **Cloud/DevOps:** Azure/AWS, Docker, Kubernetes, CI/CD (Azure DevOps / GitHub Actions)
+- **Quality:** unit/integration testing, API observability, structured logging
 
----
+## Featured Projects (real-world style)
+### 1) Resilient API Integration (.NET 8)
+- Built resilient HTTP integration with timeouts, retries (exponential backoff + jitter), and circuit breaker patterns
+- Structured logging and failure visibility using Serilog
+- Focus: reliability, maintainability, and production readiness  
+Repo: **(add link once created)**
 
-### 🛠️ Technical Arsenal
+### 2) Full-Stack App (React + .NET Core + SQL)
+- Role-based access, CRUD workflows, validations, and optimized SQL queries
+- Focus: end-to-end ownership and clean UI/UX  
+Repo: **(add link once created)** | Demo: **(add link)**
 
-| Category | Skills |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.dot.js) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) |
-| **Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git) |
+### 3) Cloud + CI/CD (Docker + GitHub Actions)
+- Containerized services and automated build/test pipeline
+- Focus: repeatable deployments and engineering hygiene  
+Repo: **(add link once created)**
 
----
+## What I’m building now
+- A production-style **.NET Web API + SQL** service with caching + background jobs + observability
+- A polished **React dashboard** with data-heavy UI patterns
 
-### 📊 GitHub Stats
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight"/>
-</p>
+## Tech Stack
+**Languages:** C#, Java, Python, TypeScript, SQL  
+**Frontend:** React, Angular, HTML, CSS  
+**Backend:** .NET Core, REST APIs, Microservices  
+**Cloud/DevOps:** Azure, AWS, Docker, Kubernetes, CI/CD  
+**Tools:** Git, Postman, Swagger, Serilog
 
----
+## Links
+- LinkedIn: <ADD YOUR LINK>
+- Portfolio: <ADD YOUR LINK (optional)>
+- Email: <ADD YOUR EMAIL>
 
-### 🤝 Connect with Me
-<p align="left">
-<a href="linkedin.com/in/tharun-kuntolla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tharun Kuntola" height="30" width="40" /></a>
-<a href="https://twitter.com/YOUR_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tharun Kuntola" height="30" width="40" /></a>
-</p>
+
