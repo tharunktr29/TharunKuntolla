@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6AD3F7&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;Cloud+Architect;DevOps+Specialist;Software+Development+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6AD3F7&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;Cloud+Architect;DevOps+Specialist;Software+Engineer" alt="Typing SVG" />
 </h3>
 
 <div align="center">
@@ -27,7 +27,7 @@
 
 ### 🎯 Professional Highlights
 - 🚀 Led development of enterprise-level web applications using React, Next.js, and Cloud services
-- 💡 Implemented microservices architecture reducing system latency by 40%
+- 💡 Implemented microservices architecture reducing system latency by 30%
 - 🔄 Expertise in full software development lifecycle and Agile methodologies
 - 🌐 Specialized in building scalable, cloud-native solutions
 - 📊 Experience with big data processing and real-time analytics
@@ -53,18 +53,44 @@
 </p>
 
 ### Backend & Database
-<p align="center">
+ <p align="left">
+  <!-- Backend Runtimes / Frameworks -->
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%206-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%207-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+
+  <!-- .NET Ecosystem -->
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logoColor=white" />
+
+  <!-- API Styles -->
+  <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Web%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+
+  <!-- Messaging / Streaming -->
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+
+  <!-- Datastores -->
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
+
 
 ### Cloud & DevOps
 <p align="center">
@@ -121,8 +147,8 @@
 <h2 align="center">📫 Let's Connect!</h2>
 
 <p align="center">
-  💼 Open to exciting opportunities in Full-Stack Development and Cloud Architecture<br>
-  📍 Currently based in Warrensburg, MO<br>
+  💼 Open to exciting opportunities in Software Engineer, Full-Stack Development and Cloud Architecture<br>
+  📍 Currently based in Southgate, MI<br>
   📧 Reach out at: tharun.ktr29@gmail.com<br>
   📱 Call: 913-956-8081
 </p>
